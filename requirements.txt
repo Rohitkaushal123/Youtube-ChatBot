@@ -10,3 +10,4 @@ dotenv
 langchain-chroma
 langchain-huggingface
 sentence-transformers
+youtube-transcript-api
