@@ -1,0 +1,12 @@
+langchain
+python-dotenv
+langchain-community
+faiss-cpu
+streamlit
+langchain_groq
+uvicorn
+langserve
+dotenv
+langchain-chroma
+langchain-huggingface
+sentence-transformers
